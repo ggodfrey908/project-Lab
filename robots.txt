@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://project-lab-3ws.pages.dev/sitemap.xml
